@@ -7,3 +7,7 @@ num('string');
 main.ram(100);
 console.log(main.color.name)
 console.log(main.default)
+
+// git add . 
+// git commit -m "name"
+// git push origin master
