@@ -11,3 +11,11 @@ console.log(main.default)
 // git add . 
 // git commit -m "name"
 // git push origin master
+
+//fetch('address',command)
+//header --> method
+// body --> Data
+// post (edit)
+// put (add)
+// get (request)
+// delete

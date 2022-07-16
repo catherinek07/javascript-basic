@@ -1,0 +1,5 @@
+fetch('https://jsonplaceholder.typicode.com/todos/3')
+.then((response => response.text()))
+.then((result) => console.log(result))
+.catch(() => console.log("An error has occured"))
+.finally(() => console.log("success"))
